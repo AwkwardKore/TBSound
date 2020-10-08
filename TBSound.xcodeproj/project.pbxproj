@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8DB43684252EFA930010DA4B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8DDDE1F6252EC9500079B337 /* TBSound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TBSound.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DDDE1F9252EC9500079B337 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DDDE1FB252EC9500079B337 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 		8DDDE1ED252EC9500079B337 = {
 			isa = PBXGroup;
 			children = (
+				8DB43684252EFA930010DA4B /* README.md */,
 				8DDDE1F8252EC9500079B337 /* TBSound */,
 				8DDDE1F7252EC9500079B337 /* Products */,
 			);
